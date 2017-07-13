@@ -1,3 +1,0 @@
-Hello, I am a file
-
-And I have several lines 
